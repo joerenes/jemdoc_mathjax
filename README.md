@@ -1,3 +1,8 @@
+This version of jemdoc+MathJax uses flex for layout instead of tables; basically, I wanted the menu position to be fixed on tall pages.
+
+Readme of jemdoc+MathJax
+------------------------
+
 jemdoc+MathJax
 ==============
 *jemdoc* is a light text-based markup language designed for creating websites.  See http://jemdoc.jaboc.net/ for more information and the detailed usage of jemdoc.
